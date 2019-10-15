@@ -13,11 +13,11 @@ To retrieve any property from the `Customer` object we have to use the dot `.` o
 
 ```js
 console.log(customer.first_name); // will print "Bob" on the console.
-```  
-  
+```
+
 # :speech_balloon: Instructions
 
-Open the `index.js` and create the necesary code to make your file render the following output into the DOM:
+Open the `index.js` and create the necessary code to make your file render the following output into the DOM:
 
 ```jsx
 <div>
